@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_Item">Add</string>
+    <string name="del_Item">Empty To do List</string>
+  </resources>
+

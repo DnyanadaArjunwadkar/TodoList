@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.dny.todolist.MainActivity">
+
+
+    <item
+        android:id="@+id/add_Item"
+        android:icon="@drawable/ic_control_point_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/add_Item"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/del_Item"
+        android:icon="@drawable/ic_delete_forever_black_24dp"
+        android:orderInCategory="200"
+        android:title="@string/del_Item"
+        app:showAsAction="ifRoom" />
+
+
+
+</menu>
